@@ -5,7 +5,7 @@ A professional, high-converting landing page designed for [Construction/Business
 > **🔴 Live Demo:** [blazhko.pp.ua]
 
 ## 📸 Preview
-![Landing Hero Section](<img width="1919" height="992" alt="Знімок екрана 2025-12-09 074419" src="https://github.com/user-attachments/assets/88dc8119-230b-4c16-9a49-d07d1372e571" />)
+![Landing Hero Section](./screenshots/hero-section.png)
 
 ## ⚡ Project Highlights
 * **💯 100/100 Lighthouse Score:** Optimized for Core Web Vitals (Speed, Accessibility, SEO).
